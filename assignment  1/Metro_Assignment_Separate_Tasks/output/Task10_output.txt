@@ -1,0 +1,7 @@
+NETWORK COLLECTION ESTIMATE
+20000 journeys: Rs 600000
+500000 journeys: Rs 15000000
+3000000 journeys: Rs 90000000
+Whole network total in paise: 9000000000
+INT_MAX: 2147483647
+Use long long for total collection.

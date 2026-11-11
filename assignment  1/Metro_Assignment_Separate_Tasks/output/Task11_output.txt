@@ -1,0 +1,4 @@
+Peak middle-zone fare: Rs 24.00
+Journey: Accepted
+Remaining balance: Rs 126
+Fare calculation: O(1) time; card storage: O(1) space; n journeys: O(n) time.

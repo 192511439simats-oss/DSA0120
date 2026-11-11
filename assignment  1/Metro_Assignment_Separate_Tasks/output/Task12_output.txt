@@ -1,0 +1,3 @@
+Airport weekday peak: Rs 72
+Airport weekend: Rs 54
+Airport covered by monthly pass: Rs 0

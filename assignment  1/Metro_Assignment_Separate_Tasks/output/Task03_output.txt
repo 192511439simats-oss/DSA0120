@@ -1,0 +1,11 @@
+DATA TYPE SIZES (bytes)
+bool: 1
+char: 1
+int: 4
+long long: 8
+float: 4
+double: 8
+INT_MAX: 2147483647
+LLONG_MAX: 9223372036854775807
+Network collection in paise: 9000000000
+Use long long because the total exceeds 32-bit int range.

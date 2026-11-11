@@ -1,0 +1,5 @@
+METRO SMART-CARD - OOP DEMONSTRATION
+Initial balance: Rs 100
+Journey accepted
+Final balance: Rs 80
+Rule: balance must remain at least Rs 50.

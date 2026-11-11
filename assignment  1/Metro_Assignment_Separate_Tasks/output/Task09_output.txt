@@ -1,0 +1,5 @@
+FARE TEST REPORT
+Inner off-peak: Rs 10.00, remaining Rs 90.00
+Outer peak: Rs 36.00, remaining Rs 54.00
+Middle off-peak: Denied, minimum balance rule
+Peak boundary checks: 08:00=1, 10:00=0, 17:00=1, 20:00=0

@@ -1,0 +1,6 @@
+METRO FARE CONSTANTS
+Inner fare: Rs 10
+Middle fare: Rs 20
+Outer fare: Rs 30
+Peak surcharge: 20%
+Minimum remaining balance: Rs 50

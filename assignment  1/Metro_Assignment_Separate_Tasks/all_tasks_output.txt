@@ -1,0 +1,104 @@
+SEPARATE TASK EXECUTION OUTPUTS
+==================================
+
+[Task01.cpp]
+METRO SMART-CARD - OOP DEMONSTRATION
+Initial balance: Rs 100
+Journey accepted
+Final balance: Rs 80
+Rule: balance must remain at least Rs 50.
+
+--------------------------------------------------
+[Task02.cpp]
+METRO FARE CONSTANTS
+Inner fare: Rs 10
+Middle fare: Rs 20
+Outer fare: Rs 30
+Peak surcharge: 20%
+Minimum remaining balance: Rs 50
+
+--------------------------------------------------
+[Task03.cpp]
+DATA TYPE SIZES (bytes)
+bool: 1
+char: 1
+int: 4
+long long: 8
+float: 4
+double: 8
+INT_MAX: 2147483647
+LLONG_MAX: 9223372036854775807
+Network collection in paise: 9000000000
+Use long long because the total exceeds 32-bit int range.
+
+--------------------------------------------------
+[Task04.cpp]
+3 3.5
+C 68
+1 true
+s >= u
+
+Compiler warnings:
+/mnt/data/Metro_Assignment_Separate_Tasks/source/Task04.cpp: In function ‘int main()’:
+/mnt/data/Metro_Assignment_Separate_Tasks/source/Task04.cpp:14:21: warning: comparison of integer expressions of different signedness: ‘int’ and ‘unsigned int’ [-Wsign-compare]
+   14 |     std::cout << (s < u ? "s < u" : "s >= u") << '\n';
+      |                   ~~^~~
+
+--------------------------------------------------
+[Task05.cpp]
+11 16
+9 6 4
+6 4
+3 1 -3 -1
+18
+
+--------------------------------------------------
+[Task06.cpp]
+Fare Rs 10.00 balance Rs 90
+Fare Rs 36.00 balance Rs 54
+Denied (low balance) balance Rs 54
+
+--------------------------------------------------
+[Task07.cpp]
+Procedural journey: Accepted
+Procedural balance: Rs 80
+OOP journey: Accepted
+OOP balance: Rs 80
+
+--------------------------------------------------
+[Task08.cpp]
+Enter zone (1-3), hour (0-23), and balance in rupees: Fare: Rs 36.00
+Journey accepted. Remaining: Rs 64.00
+
+--------------------------------------------------
+[Task09.cpp]
+FARE TEST REPORT
+Inner off-peak: Rs 10.00, remaining Rs 90.00
+Outer peak: Rs 36.00, remaining Rs 54.00
+Middle off-peak: Denied, minimum balance rule
+Peak boundary checks: 08:00=1, 10:00=0, 17:00=1, 20:00=0
+
+--------------------------------------------------
+[Task10.cpp]
+NETWORK COLLECTION ESTIMATE
+20000 journeys: Rs 600000
+500000 journeys: Rs 15000000
+3000000 journeys: Rs 90000000
+Whole network total in paise: 9000000000
+INT_MAX: 2147483647
+Use long long for total collection.
+
+--------------------------------------------------
+[Task11.cpp]
+Peak middle-zone fare: Rs 24.00
+Journey: Accepted
+Remaining balance: Rs 126
+Fare calculation: O(1) time; card storage: O(1) space; n journeys: O(n) time.
+
+--------------------------------------------------
+[Task12.cpp]
+Airport weekday peak: Rs 72
+Airport weekend: Rs 54
+Airport covered by monthly pass: Rs 0
+
+--------------------------------------------------

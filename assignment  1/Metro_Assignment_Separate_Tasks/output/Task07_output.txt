@@ -1,0 +1,4 @@
+Procedural journey: Accepted
+Procedural balance: Rs 80
+OOP journey: Accepted
+OOP balance: Rs 80
