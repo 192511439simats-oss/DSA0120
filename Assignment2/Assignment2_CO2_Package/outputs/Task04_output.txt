@@ -1,0 +1,7 @@
+Account: SA1024
+Recent transactions:
+Deposit  +500
+Withdraw -200
+Deposit  +100
+Withdraw -50
+Balance: 1350

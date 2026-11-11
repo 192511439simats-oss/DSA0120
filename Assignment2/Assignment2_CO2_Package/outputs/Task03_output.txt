@@ -1,0 +1,6 @@
+charge(2)       [int grams] : 0.1
+charge(2.0f)    [float]     : 100
+charge(2.0)     [double]    : 100
+charge(2.0,true): 150
+charge(2.0,false,true): 120
+charge(Parcel)  : 245

@@ -1,0 +1,6 @@
+Highest before moderation: 91
+Highest after moderation : 93
+Index of highest mark    : 1
+Pointer value             : 93
+Const reference           : 93
+Vector highest after growth: 95

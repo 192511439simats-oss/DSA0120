@@ -1,0 +1,6 @@
+Operations: 200000
+Shifting history checksum: 48725
+Circular history checksum: 48725
+Shifting time (microseconds): 28848
+Circular time (microseconds): 838
+Both designs retain the latest 50 values.
