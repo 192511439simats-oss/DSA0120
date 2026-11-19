@@ -1,0 +1,5 @@
+Series impedance: 10 + j3
+Series magnitude: 10.4403
+Parallel impedance: 2 + j4
+Parallel magnitude: 4.47214
+Division by zero impedance

@@ -1,0 +1,14 @@
+Created: Local Event
+Local Event seat map:
+O X O 
+O O O 
+Created: Block Event
+Closed: Block Event
+Created: Heap Event
+Heap Event seat map:
+O O 
+O X 
+Closed: Heap Event
+Created: Zero Row Event
+Closed: Zero Row Event
+Closed: Local Event

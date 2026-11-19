@@ -1,0 +1,1 @@
+This folder contains VS Code-style screenshots/previews for each source file and sample terminal output. These are generated previews, not photographs captured from your own VS Code installation. For a genuine submission screenshot, open each .cpp file in VS Code, run it in the integrated terminal, and capture your screen.

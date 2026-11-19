@@ -1,0 +1,4 @@
+Title: (empty), Copies: 0
+Title: The Alchemist, Copies: 0
+Title: C++ Programming, Copies: 5
+Title: Invalid Book, Copies: 0
