@@ -1,0 +1,4 @@
+Total through pointer: 324.00
+Total through reference: 324.00
+Dynamic cart total: 50.00
+Highest cart total: 250.00

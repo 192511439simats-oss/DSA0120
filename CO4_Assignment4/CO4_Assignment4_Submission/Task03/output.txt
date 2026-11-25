@@ -1,0 +1,4 @@
+Address constructed Person constructed Student constructed 
+192311001 Kavya (19) Salem-636001 CSE
+Construction/destruction trace: Vehicle Engine Car | ~Car ~Engine ~Vehicle 
+Student destroyed Person destroyed Address destroyed 

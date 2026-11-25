@@ -1,0 +1,10 @@
+Fleet listing:
+Bicycle BI-101 | daily charge 100 | Available
+TwoWheeler TW-202 | daily charge 300 | Available
+Car CA-303 | daily charge 1250 | Available
+ElectricCar EV-404 | daily charge 1820 | Available
+ElectricBus EB-505 | daily charge 3150 | Available
+Car rented; status: Car CA-303 | daily charge 1250 | Rented
+Return charge with 2 late days: 1650
+After return: Car CA-303 | daily charge 1250 | Available
+Electric bus added without modifying existing classes.

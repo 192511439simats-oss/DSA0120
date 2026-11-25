@@ -1,0 +1,12 @@
+Base pointer calls: 3.5 4
+Sliced copy virtual call: 3.5
+Stored account rates:
+3.5
+4
+Leaving main; virtual destructors release derived resources:
+Account destroyed
+SeniorAccount destroyed
+Account destroyed
+Account destroyed
+SeniorAccount destroyed
+Account destroyed

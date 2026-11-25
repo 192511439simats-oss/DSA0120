@@ -1,0 +1,3 @@
+Teaching Assistant: Kavya 201 9876543210 | CSE 8.7 | CSE 35000
+Research Scholar: Arun 202 9876501234 | AI 9.1 | Fellowship 12000
+Constructor trace: Person Student Staff TA 
