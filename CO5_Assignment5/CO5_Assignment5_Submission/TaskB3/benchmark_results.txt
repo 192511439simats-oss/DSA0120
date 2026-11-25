@@ -1,0 +1,14 @@
+Bills per design: 1000
+Switch total seconds: 2.876e-06
+Virtual total seconds: 2.868e-06
+Combined checksum: 375000
+
+Bills per design: 100000
+Switch total seconds: 0.000352721
+Virtual total seconds: 0.000441136
+Combined checksum: 3.75e+07
+
+Bills per design: 1000000
+Switch total seconds: 0.0046294
+Virtual total seconds: 0.00437878
+Combined checksum: 3.75e+08

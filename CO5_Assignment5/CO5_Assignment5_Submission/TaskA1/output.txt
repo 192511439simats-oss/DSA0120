@@ -1,0 +1,5 @@
+OP Ravi: 1700
+IP Meena: 47500
+DayCare Asha: 18000
+Emergency Kiran: 2400
+Day total: 69600

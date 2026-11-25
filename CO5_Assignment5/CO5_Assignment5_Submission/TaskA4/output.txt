@@ -1,0 +1,4 @@
+validated 500
+validated rejected: negative charge
+validated rejected: charge exceeds limit
+claim error: claim exceeds policy cover

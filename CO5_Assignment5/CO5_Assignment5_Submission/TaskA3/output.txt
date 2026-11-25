@@ -1,0 +1,5 @@
+OP total 1700
+Self-pay 1700
+Insurance 30000
+Government OP 1500
+Corporate IP 38000
